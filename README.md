@@ -81,6 +81,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kratikpaliwal&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&custom_title=Total%20Contributions%20This%20Year&theme=radical" alt="Total Contributions This Year" />
 </p>
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-

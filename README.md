@@ -1,4 +1,5 @@
 <h1 align="center">Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Kratik Paliwal</h1>
+<div align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=229DF7&center=true&width=435&lines=Welcome+to+Kratik's+Github+Profile" alt="Typing SVG" /></a></div>
 <p align="center">
   <img src="https://media.giphy.com/media/KEYMsj2LcXzfcTP5ii/giphy.gif?cid=ecf05e47wbs1udxyophmore9bwuzgfatt0jaz8pemvwmtmma&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="kratikpaliwal">
  </p>

@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/KEYMsj2LcXzfcTP5ii/giphy.gif?cid=ecf05e47wbs1udxyophmore9bwuzgfatt0jaz8pemvwmtmma&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="kratikpaliwal">
  </p>
 -  I’m currently learning backend development<br>
--  Ask me about HTML, CSS, js, node, c, c++, python, sql<br>
+-  Ask me about HTML, CSS, JS, Node, C, C++, Python, SQL<br>
 - To reach me <a href="mailto:kratikpaliwal19@gmail.com">kratikpaliwal19@gmail.com</a>
 
 

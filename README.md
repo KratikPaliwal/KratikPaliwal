@@ -82,3 +82,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kratikpaliwal&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&custom_title=Total%20Contributions%20This%20Year&theme=radical" alt="Total Contributions This Year" />
 </p>
+<div align="center">
+  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kratikpaliwal&show_icons=true&locale=en" alt="kratik paliwal" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kratikpaliwal&" alt="kratik-paliwal" /></p>
+</div>

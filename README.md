@@ -73,8 +73,6 @@
   </a> 
 </p><br>
 
-
-
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kratikpaliwal&show_icons=true&locale=en&layout=compact" alt="kratikpaliwal" height="200" />
 </p>
@@ -88,3 +86,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kratikpaliwal&" alt="kratik-paliwal" /></p>
 </div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kratikpaliwal&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)">
